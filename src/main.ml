@@ -1,3 +1,12 @@
+(* File: basics.ml 
+   Hw 3 OCaml Basics
+   Author: Guido Fajardo
+   Date: 10/25/2025
+   The goal of this homework is to get familiar with developing a programming language in OCaml. 
+   In this homework, I will extend the CalcPL initial version.
+*)
+
+
 open Ast
 
 (** [parse s] parses [s] into an AST. *)
